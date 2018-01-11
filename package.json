@@ -24,9 +24,12 @@
     "lodash": "^4.17.4",
     "react": "16.0.0",
     "react-native": "0.50.3",
+    "react-native-firebase": "^3.2.1",
     "react-native-gifted-chat": "^0.3.0",
     "react-native-keyboard-spacer": "^0.4.1",
     "react-native-router-flux": "^3.43.0",
+    "react-native-tab-view": "0.0.74",
+    "react-native-tab-view-fixed": "0.0.69",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0"

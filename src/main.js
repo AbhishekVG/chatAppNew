@@ -20,7 +20,7 @@ export default class ChattingApp extends React.Component{
     }
     render(){
         return(
-            <Provider store={createStore(reducers,  {loginAuth: {email: 'test@test.com', password: '123456'}}, applyMiddleware(ReduxThunk))}>
+            <Provider store={createStore(reducers,  {loginAuth: {email: 'abhishek@gmail.com', password: '123456'}}, applyMiddleware(ReduxThunk))}>
                 <ChattingAppRouter />
             </Provider>
         )
